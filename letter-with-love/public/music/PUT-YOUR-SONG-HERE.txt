@@ -1,0 +1,2 @@
+Copy your downloaded song (mp3, m4a, wav...) into this folder,
+then set its exact file name in src/data.js, e.g.  song: 'our-song.mp3'
