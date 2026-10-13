@@ -1,0 +1,4 @@
+[build]
+  base = "letter-with-love"
+  command = "npm install && npm run build"
+  publish = "dist"
