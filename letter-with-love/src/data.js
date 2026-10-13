@@ -5,7 +5,7 @@ export const LETTER = {
   to: 'Gichuki',
   from: 'Me',
   theme: 'Sunset Meadow', // Monet Mist | Rothko Dusk | Matisse Garden | Starry Night
-  song: '', // your own music: put the file in public/music/ and write its name here, e.g. 'our-song.mp3'
+  song: 'https://cdn.pixabay.com/download/audio/2023/07/12/audio_af189fc259.mp3?filename=lofcosmos-dreamy-meadow-157900.mp3', // your own music: put the file in public/music/ and write its name here, e.g. 'our-song.mp3'
   mood: 'Gentle', // only used when song is empty: Gentle | Hopeful | Wistful
   intro:
     "Gichuki,\n\nI've started this letter more times than I can count. I wanted to write it the way you taught me to look at things: slowly, with patience, and with colour. So I made you this. Please read it to the end, and know that every word comes from a place of love.",
@@ -24,13 +24,19 @@ export const LETTER = {
     {
       e: '🌙',
       title: 'How it went',
-      t: " I fell in love and not just surface level deep that I felt if I ended this it would hurt and part of myself would be lost, but im slowly losing myself in a battle of you can't end it cause he loves you and have the perfect future planned out he is what you need in life, hence been questioning myself do I fit in in your life? Im I bringing any additional value innit? obvious answer is obviously no, Tried twice but its aint working out and realised you'll never know me past surface level Mary and I just cant be open with you, Im sorry.I know that we are in building individual level right now so this might just come out just off but it just have to ",
+      t: " I fell in love and not just surface level deep that I felt if I ended this it would hurt and part of myself would be lost, but im slowly losing myself in a battle of you can't end it cause he loves you and have the perfect future planned out he is what you need in life, hence been questioning myself do I fit in in your life? Im I bringing any additional value innit? obvious answer is obviously no, Tried twice but its aint working out and realised you'll never know me past surface level Mary and I just cant seem to open up to you Im sorry I know that we are in building individual level right now so this might just come out just off but I just have to (ill never fit in in your life,Im not what you deserve and ive come to peace with that) ",
     },
     {
       e: '🌙',
       title: 'The night I understood',
       t: "It was the days, we talked about everything except us. I sat alone with my thoughts and realised I wasn't unhappy because of anything you did. We had simply become two different humans, wanting to make different pictures with our lives. Staying will mean slowly fading both our colours. And you deserve every one of yours.",
     },
+     {
+      e: '🌙',
+      title: 'My Peace',
+      t: "I love you and a part of me probably always will but I can't keep settling for a relationship that isn't giving me the life or love I know im capable of having, as much as it hurts I have to let go , It happens that ive outgrown the version of this relationship we've created, not asking for change the third time, I just need you to understand.",
+    },
+    
   ],
   reasons: [
     {
@@ -47,7 +53,7 @@ export const LETTER = {
     },
   ],
   outro:
-    "Thank you for the galleries, the sketchbooks left open on the table, the paint under your fingernails, and every patient hour you spent teaching me to look closer. None of it is wasted. It's part of me now. I hope you keep painting, keep noticing the light in the corners, and find someone who sees all of it exactly the way you deserve. I'll always be rooting for you.",
+    "Thank you for the art,physical stuffs like fits,totes,snacks and every patient hour you spent teaching me to look closer. None of it is wasted. It's part of me now. I hope you keep painting, keep noticing the light in the corners, and find someone who sees all of it exactly the way you deserve. I'll always be rooting for you.",
 }
 
 // Painter-inspired palettes. Add your own!
